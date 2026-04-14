@@ -10,8 +10,8 @@
 
 ## 🛠️ 技术栈 (Tech Stack)
 
-* **核心逻辑**: Python 3.10+
-* **大语言模型**: [Gemini 3 Pro Flash]
+* **核心逻辑**: Python 3.12
+* **大语言模型**: [Gemini 3 Pro Preview]
 * **Agent 框架**: [LangGraph]
 * **向量数据库**: [Qdrant]
 * **前端交互**: Gradio
@@ -20,6 +20,6 @@
 
 ### 环境安装
 ```bash
-git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
-cd your-repo-name
+git clone [https://github.com/hanbing-shiqi/agentic-rag-multi-model.git]([https://github.com/your-username/your-repo-name.git](https://github.com/hanbing-shiqi/agentic-rag-multi-model.git))
+cd agentic-rag-multi-model
 pip install -r requirements.txt
